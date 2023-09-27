@@ -1,5 +1,5 @@
 # Machine Learning Study 혼자 해보기 - 이상원
-
+(첫번째 변경사항)
 <div align="center">
 
 ![GitHub contributors](https://img.shields.io/github/contributors/teddylee777/machine-learning)
