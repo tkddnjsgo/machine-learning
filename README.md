@@ -1,4 +1,4 @@
-# Machine Learning Study 혼자 해보기
+# Machine Learning Study 혼자 해보기 - 이상원
 
 <div align="center">
 
